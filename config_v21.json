@@ -3,7 +3,7 @@
   "version": 2,
   "releaseDate": "2024-05-05T00:00:00.000Z",
   "active": "true",
-  "versions": [
+  "notes": [
     {
       "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
       "id": 1,
@@ -19,8 +19,8 @@
     },
     {
       "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
-      "id": 1,
-      "name": "Initial",
+      "id": 2,
+      "name": "farscape",
       "notes": [
         "Explore up to 5 wallets",
         "Intuitive Interface",
