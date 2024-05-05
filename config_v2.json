@@ -3,30 +3,32 @@
   "version": 2,
   "releaseDate": "2024-05-05T00:00:00.000Z",
   "active": "true",
-  "versions": {
-    "id": 1,
-    "name": "Initial",
-    "notes": {
-      "home": "800-123-4567",
-      "mobile": "877-123-1234"
+  "versions": [
+    {
+      "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
+      "id": 1,
+      "name": "Initial",
+      "notes": [
+        "Explore up to 5 wallets",
+        "Intuitive Interface",
+        "Real-Time Balance",
+        "Transaction History",
+        "Simplified Delegations",
+        "High-Level Security"
+      ]
     },
-    "email": [
-      "jd@example.com",
-      "jd@example.org"
-    ],
-    "dateOfBirth": "1980-01-02T00:00:00.000Z",
-    "registered": true,
-    "emergencyContacts": [
-      {
-        "name": "Jane Doe",
-        "phone": "888-555-1212",
-        "relationship": "spouse"
-      },
-      {
-        "name": "Justin Doe",
-        "phone": "877-123-1212",
-        "relationship": "parent"
-      }
-    ]
-  }
+    {
+      "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
+      "id": 1,
+      "name": "Initial",
+      "notes": [
+        "Explore up to 5 wallets",
+        "Intuitive Interface",
+        "Real-Time Balance",
+        "Transaction History",
+        "Simplified Delegations",
+        "High-Level Security"
+      ]
+    }
+  ]
 }
