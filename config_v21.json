@@ -22,8 +22,11 @@
       "id": 2,
       "name": "farscape",
       "wallets": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX",
+            "oasis1qzqw932qj6452nva98fm7dt87gua3at2gqmculmq",
+            "oasis1qq6c6favavdex0mmmeulwum5svp5rlhhxswfj5as",
+            "oasis1qrw9rvn04pawe3xnpud0gc5ey2zesdcalgp00a9s",
+            "oasis1qqp6x63pkrs6rp4xaju58rtc6j5ve0kl2vf245us",
+            "oasis1qz0nawzlzq85r7pvz8y5puqp2kpnvuucfv20t0fx"
         ],
       "signature":"ccncpsncpdcnsncsdhhfahfaohfaofhaofhoafhaofhaofnaocnaocnaocnaocnaocnaocnaocnaocnaocnaohfaofhaofhaofhafohaofhaocnaconaoncoaxxxxn",
       "notes": [
