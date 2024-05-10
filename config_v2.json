@@ -3,11 +3,7 @@
   "version": 2,
   "releaseDate": "2024-05-05T00:00:00.000Z",
   "active": "true",
-  "wallets": [
-        "ddhhddtt",
-        "fggfgttg",
-        "rrrrrrrt"
-        ],
+  "demoWallet": "oasis1qqp6x63pkrs6rp4xaju58rtc6j5ve0kl2vf245us",
   "signature": "gutdiuqtqe87q6e0yghogdiougd9qe6q8eq9gq9d9tdq98dt9qgd9qgdq89dt9dg9dg98dt9qqdg9qgdq9gd9qdgt9qd7t7q9trq96eq9yqgdh98qgd98tq9t9dgq9t9qt9qgqd",
   "notes": [
     {
