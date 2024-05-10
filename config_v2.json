@@ -1,10 +1,11 @@
 {
   "product": "Rose Wallet Explorer",
   "version": 2,
+  "name": "farscape",
   "releaseDate": "2024-05-05T00:00:00.000Z",
   "active": "true",
   "demoWallet": "oasis1qqp6x63pkrs6rp4xaju58rtc6j5ve0kl2vf245us",
-  "signature": "gutdiuqtqe87q6e0yghogdiougd9qe6q8eq9gq9d9tdq98dt9qgd9qgdq89dt9dg9dg98dt9qqdg9qgdq9gd9qdgt9qd7t7q9trq96eq9yqgdh98qgd98tq9t9dgq9t9qt9qgqd",
+  "signature": "U2FsdGVkX1//2rPB6v+/D/Ayg8wyYCOj14ceWG6of8LMa5X1LZ/Le9WudXZupbpdC5HRtaGpFk7H7uhVkurQ9q9O9Thql7vHXRFcODbKLdu3qk4WcuPCACgmzG9fEKs9DrotQM5jv2RiyWweBB3vSeicrhWVUg82uNWvfcoXS6GwXTo+3CMBvzYofucS2wY1FDNfOEyRQVEPq/9vAbBE2GywsZlY7avwIvgykLE4Fv7Kxg1Jh4PFc9YnQU0oGAPjESmEJF269RGiWTVkikAFkJIVNLdUgm8Rmsb2c+q6QTaZpcv2wskv3buztefXgePXeUbs44+ECoklB1kgqtvjEOpwpA2Hocw/FpLZ5tppt2iV63o5nB5qPobTYiwgPr1BRQWEJ9HpggjXaBCFI5ul9A==",
   "notes": [
     {
       "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
