@@ -1,0 +1,39 @@
+{
+  "product": "Rose Wallet Explorer",
+  "version": 2,
+  "releaseDate": "2024-05-05T00:00:00.000Z",
+  "active": "true",
+  "wallets": [
+            "oasis1qzqw932qj6452nva98fm7dt87gua3at2gqmculmq",
+            "oasis1qq6c6favavdex0mmmeulwum5svp5rlhhxswfj5as",
+            "oasis1qrw9rvn04pawe3xnpud0gc5ey2zesdcalgp00a9s",
+            "oasis1qqp6x63pkrs6rp4xaju58rtc6j5ve0kl2vf245us",
+            "oasis1qz0nawzlzq85r7pvz8y5puqp2kpnvuucfv20t0fx"
+        ],
+  "signature":"ccncpsncpdcnsncsdhhfahfaohfaofhaofhoafhaofhaofnaocnaocnaocnaocnaocnaocnaocnaocnaocnaohfaofhaofhaofhafohaofhaocnaconaoncoaxxxxn",
+  "notes": [
+    {
+      "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
+      "id": 1,
+      "name": "Initial",
+      "notes": [
+        "Explore up to 5 wallets",
+        "Intuitive Interface",
+        "Real-Time Balance",
+        "Transaction History",
+        "Simplified Delegations",
+        "High-Level Security"
+      ]
+    },
+    {
+      "about": "Welcome to Rose Wallet Explorer, your gateway to a heightened level of control over your digital assets on the Oasis Network!",
+      "id": 2,
+      "name": "farscape",
+      "notes": [
+        "Explore up to 5 wallets",
+        "Intuitive Interface",
+        "Real-Time Balance",
+      ]
+    }
+  ]
+}
