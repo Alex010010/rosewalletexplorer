@@ -8,9 +8,11 @@
   "signature2": "U2FsdGVkX199Hp8cc8zPLpWeE7Yt01wjS+nTilE1JbtxFhIuW8TDU0IwCmD7t08ggm3BrLRzl72fiZs2iKK8oGuwJqyXmPkcyR7/LDfXD35suV/PrYhjkwHYiTlNumjFmfYbx0NY9KBqrDsECR9FC3kb8tu7Tpe93APIydimr6HHqHq7BVILyxCUdm4p/UWTicBzLza3dcxwv3E/5LosfIpg6kP1T3oWQVgvG/5Xbq8aKxs1qUUwEhPZg8/rnSfsX+lBK1dhnw7OUjRI2UfpAO80tds4/F7Q2hBQKucCVmLYvdV230Eq/Mxi8fJX8Y1l/y8eBpqAwz40xs2UVXuZZuQKPn1tlg/AdbLwyB7ADrl2lXe9WPUGi0xhW5mkiXZiL9XbjdeVyWoGX3QXIMcU1Q==99",
   "user_messages": [
       {"message": "Mensaje de ejemplo para revisar el sistema de mensaqjeria de usuario",
+       "repeat" : 3,
        "id": 1
       },
       {"message": "Mensaje 2",
+       "repeat" : 1,
        "id": 2
       }
         ],
